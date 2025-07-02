@@ -11,88 +11,100 @@ Fun fact: look at my commit history on the bottom 👀 — a playful reminder th
 ## Core Tech Stack
 
 ### Front-end
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px;">  
-  <div style="width: 60px; height: 60px; background: #E34F26; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #1E70B8; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #F0DB4F; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #315cac; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #076f97; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #111111; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #00788a; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #7952B3; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #004193; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" alt="Ant Design" width="32" height="32" />  
-  </div>  
-</div>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" /><br>HTML5
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" /><br>CSS3
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /><br>JavaScript
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" /><br>TypeScript
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" /><br>React
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" /><br>Next.js
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" /><br>Tailwind CSS
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" alt="Bootstrap" /><br>Bootstrap
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="40" alt="Ant Design" /><br>Ant Design
+    </td>
+  </tr>
+</table>
 
 ### Back-end
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px;">  
-  <div style="width: 60px; height: 60px; background: #339933; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #9e1030; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #336791; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #ffc13e; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #47A248; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #FFCA28; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #2496ED; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="32" height="32" />  
-  </div>  
-</div>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" /><br>Node.js
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" alt="NestJS" /><br>NestJS
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" /><br>Firebase
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" /><br>Docker
+    </td>
+  </tr>
+</table>
 
 ### Design & UX
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 20px;">  
-  <div style="width: 60px; height: 60px; background: #1572B6; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Responsive Design" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #F24E1E; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #0055FF; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" alt="Framer Motion" width="32" height="32" />  
-  </div>  
-</div>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="Responsive Design" /><br>Responsive Design
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" /><br>Figma
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="40" alt="Framer Motion" /><br>Framer Motion
+    </td>
+  </tr>
+</table>
 
 ### Project & Management Tools
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">  
-  <div style="width: 60px; height: 60px; background: #fafafa; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #0042a3; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="Jira" width="32" height="32" />  
-  </div>  
-  <div style="width: 60px; height: 60px; background: #000000; border-radius: 12px; display: flex; align-items: center; justify-content: center;">  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="32" height="32" />  
-  </div>  
-</div>
+
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" alt="Trello" /><br>Trello
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" alt="Jira" /><br>Jira
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="40" alt="Notion" /><br>Notion
+    </td>
+  </tr>
+</table>
 
 ---
 
 Thanks for stopping by! Feel free to explore my projects and connect with me.  
-And yes — that snake game on my commit graph is a fun reminder that coding is a journey filled with small steps and lots of progress. 🐍  
+And yes — that snake game on my commit graph is a fun reminder that coding is a journey filled with small steps and lots of progress. 🐍
