@@ -1,0 +1,17 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate_snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3.3.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: starewxz

@@ -108,3 +108,5 @@ Fun fact: look at my commit history on the bottom 👀 — a playful reminder th
 
 Thanks for stopping by! Feel free to explore my projects and connect with me.  
 And yes — that snake game on my commit graph is a fun reminder that coding is a journey filled with small steps and lots of progress. 🐍
+
+![github-snake](./github-snake.svg)
