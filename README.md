@@ -1,10 +1,8 @@
 # Hi, I'm Stas 👋
 
-I’m a full-stack web developer from Ukraine, passionate about building clean, effective web applications. Since starting in 2024, I’ve quickly grown through hands-on projects and continuous learning.
+I’m a full-stack web developer from Ukraine, dedicated to building clean, user-focused, and efficient web applications. Since beginning my coding journey in 2024, I’ve grown rapidly through real-world projects, consistent learning, and a deep passion for technology.
 
-I bring a unique perspective, transitioning from sports to coding with strong discipline and focus. My work ranges from simple apps to full landing pages and e-commerce projects, with a commitment to quality and steady progress.
-
-Fun fact: look at my commit history on the bottom 👀 — a playful reminder that consistency leads to growth. 🐍
+Coming from a background in sports, I bring a unique blend of discipline, focus, and drive into the world of development. My experience ranges from building simple interactive apps to full-featured landing pages and robust e-commerce platforms. I’m committed to writing quality code, delivering thoughtful design, and continuously improving through each project.
 
 ---
 
@@ -107,5 +105,4 @@ Fun fact: look at my commit history on the bottom 👀 — a playful reminder th
 ---
 
 Thanks for stopping by! Feel free to explore my projects and connect with me.  
-And yes — that snake game on my commit graph is a fun reminder that coding is a journey filled with small steps and lots of progress. 🐍
 
